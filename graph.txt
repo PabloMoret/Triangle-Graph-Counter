@@ -1,0 +1,2 @@
+A B C D E F
+AB AC AE AF BC CD CE DE EF

@@ -1,0 +1,2 @@
+A B C D E F G
+AB AC AD AE AF BF FG
